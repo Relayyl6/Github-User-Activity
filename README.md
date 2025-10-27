@@ -136,6 +136,7 @@ MIT
 
 ---
 
+Full code learning example
 Basic API request for the dummy JSON data to learn first how requesting works
 
 ```rust
