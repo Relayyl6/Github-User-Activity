@@ -7,7 +7,7 @@ This project is a simple, async Rust application built with [`reqwest`](https://
 
 ## Project Page
 
-(If applicable, add your project page or learning roadmap link here)
+[Project page](https://roadmap.sh/projects/github-user-activity)
 
 ---
 
