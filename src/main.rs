@@ -200,8 +200,3 @@ fn capitalize_first(s: &str) -> String {
         Some(f) => f.to_uppercase().collect::<String>() + c.as_str(),
     }
 }
-
-// // Example usage in your main loop:
-// for event in latest_events {
-//     println!(" - {}", describe_event(event));
-// }
